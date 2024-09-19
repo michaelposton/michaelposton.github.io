@@ -90,7 +90,7 @@
       </g>
       <g id="g75" inkscape:label="drop-target" style="display:inline">
          <g id="g54" transform="matrix(0.26458333,0,0,0.26458333,57.94605,102.44776)" inkscape:label="browser" style="display:inline;opacity:1;stroke-width:9.52391">
-            <circle style="fill:#6366f1;fill-opacity:1" cx="256" cy="256" r="256" id="circle1" />
+            <circle style="fill:#808285;fill-opacity:1" cx="256" cy="256" r="256" id="circle1" />
             <rect x="112" y="96" style="fill:#ffffff" width="288" height="336" id="rect1" />
             <rect x="112" y="432" style="fill:#ffffff;fill-opacity:1" width="288" height="16" id="rect2" />
             <rect x="112.08" y="64" style="fill:#3b3b3b" width="288" height="32" id="rect3" />
@@ -147,7 +147,7 @@
          </g>
       </g>
       <g id="g54-2" transform="matrix(0.26458333,0,0,0.26458333,57.946082,101.97018)" style="clip-rule:evenodd;display:inline;fill-rule:evenodd;stroke-width:9.52391;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision;opacity:0" inkscape:label="doc" opacity="0">
-         <circle style="fill:#6366f1;fill-opacity:1" cx="256" cy="256" r="256" id="circle1-1" />
+         <circle style="fill:#808285;fill-opacity:1" cx="256" cy="256" r="256" id="circle1-1" />
          <rect x="112" y="96" style="fill:#ffffff" width="288" height="336" id="rect1-3" />
          <rect x="112" y="432" style="fill:#db2b42" width="288" height="16" id="rect2-2" />
          <rect x="112.08" y="64" style="fill:#3b3b3b" width="288" height="32" id="rect3-8" />
