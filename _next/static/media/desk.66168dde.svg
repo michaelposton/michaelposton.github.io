@@ -84,5 +84,5 @@
     <animate attributeName="opacity" id="logo-animation" values="0;0.9" begin="20s" dur="10s" repeatCount="once" fill="freeze" />
   </g>
   <animate attributeName="viewBox" id="viewbox-animation" from="197 177 25 3" to="197 177 25 3" begin="0s" dur="1s" fill="freeze" />
-  <animate attributeName="viewBox" id="viewbox-animation" from="197 177 25 3" to="0 0 413 376" begin="1s" dur="25s" fill="freeze" />
+  <animate attributeName="viewBox" id="viewbox-animation" from="197 177 25 3" to="0 0 413 376" begin="1s" dur="23s" fill="freeze" />
 </svg>
