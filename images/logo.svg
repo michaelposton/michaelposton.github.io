@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="654.96198"
+   height="646.63287"
+   viewBox="0 0 654.96197 646.63289"
+   version="1.1"
+   id="svg64"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs64" />
+  <!-- Row 1 -->
+  <!-- Row 2 -->
+  <!-- Row 3 -->
+  <!-- Row 4 -->
+  <!-- Row 5 -->
+  <!-- Row 6 -->
+  <!-- Row 7 -->
+  <!-- Row 8 -->
+  <rect
+     style="fill:#3b82f6;fill-opacity:1;stroke:none;stroke-width:61.5907"
+     id="rect1"
+     width="654.96198"
+     height="646.63287"
+     x="0"
+     y="0"
+     ry="175.30499" />
+  <ellipse
+     style="fill:#3b82f6;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     id="path64"
+     cx="167.22055"
+     cy="264.73944"
+     rx="44.671459"
+     ry="45.941151" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13.7484;stroke-dasharray:none;stroke-opacity:1"
+     id="path64-8"
+     cx="247.35077"
+     cy="427.93555"
+     rx="50.258083"
+     ry="50.974838" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13.7484;stroke-dasharray:none;stroke-opacity:1"
+     id="path64-8-5"
+     cx="407.61121"
+     cy="427.93555"
+     rx="50.258083"
+     ry="50.974838" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:13;stroke-dasharray:none;stroke-opacity:1"
+     id="path64-8-2"
+     cx="327.48099"
+     cy="278.38455"
+     rx="50.739731"
+     ry="45.143524" />
+  <ellipse
+     style="fill:#3b82f6;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     id="path64-9"
+     cx="487.74142"
+     cy="264.73944"
+     rx="44.671001"
+     ry="45.941151" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     d="m 186.77066,305.60719 65.98702,125.44007"
+     id="path66" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     d="M 250.04943,429.94657 326.793,276.73737"
+     id="path67" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     d="M 401.33931,426.21067 330.09015,276.59101"
+     id="path68" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:39.9;stroke-dasharray:none;stroke-opacity:1"
+     d="M 403.32866,431.41433 468.7075,306.67592"
+     id="path70" />
+</svg>
